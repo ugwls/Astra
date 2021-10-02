@@ -1,2 +1,2 @@
 # Astra
-NASA app challenge
+NASA space app challenge
